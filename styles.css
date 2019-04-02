@@ -1,0 +1,14 @@
+.tv {
+    width: 50%;
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.purchase{
+    margin-right: 20px;
+}
